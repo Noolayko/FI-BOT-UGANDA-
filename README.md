@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FI BOT-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FI BOT-2-https://github.com/Noolayko/FI-BOT-UGANDA-/tree/main) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
