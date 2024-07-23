@@ -1,2 +1,4 @@
 # FI-BOT-UGANDA
- IS UNDER MANTIANCE SO WAIT FOR IT
+ GET CODE VAI REPLIT 
+
+ https://replit.com/@DGXeon/Xeon-PairCode#main.sh
