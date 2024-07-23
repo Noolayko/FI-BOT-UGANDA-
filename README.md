@@ -19,92 +19,8 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FI BOT-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
 ```
-sudo apt -y update && sudo apt -y upgrade
-```
-```
-sudo apt -y install git ffmpeg curl
-```
-```
-curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
-sudo -E bash nodesource_setup.sh
-```
-```
-sudo apt-get install -y nodejs
-```
-```
-sudo npm install -g yarn
-```
-```
-sudo yarn global add pm2
-```
-```
-git clone https://github.com/type-your-username-here/Venom-2
-```
-```
-cd Venom-2
-yarn install 
-npm start
-```
- 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# Termux Deployment
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
-```
-cd Venom-2
-```
-```
-yarn install
-```
-```
-npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-- If you want Command For 24/7 (might no work) 
-```js
-npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
-
+``
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
 <h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
@@ -114,19 +30,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Node.js](https://nodejs.org/en/download/)
 - [Download Git](https://git-scm.com/downloads)
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
-
-```cmd
-> git clone https://github.com/DeeCeeXxx/Venom-2.git
-```
-```
-> cd Venom-2
-```
-```
-> yarn install
-```
-```
-> npm start
-```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
