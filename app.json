@@ -1,15 +1,15 @@
 {
-    "name": "FI_BOT-V2",
+    "name": "FI-BOT-UGANDA-",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "FI-V2", "FI_BOT"],
+    "keywords": ["Noolayko", "FI-BOT-UGANDA-", "FI-BOT-UGANDA-"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "FI_BOT-V2",
+        "value": "FI-BOT-UGANDA-",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "FI_BOT-V2"
+        "value": "FI-BOT-UGANDA-"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -115,7 +115,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "FI_BOT-V2",
+        "value": "FI-BOT-UGANDA-",
         "required": false
       },
       "PACK_AUTHER": {
