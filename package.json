@@ -1,14 +1,14 @@
 {
-   "name": "FI_BOT-V2",
+   "name": "FI-BOT-UGANDA-",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by Noplayko.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name FI_BOT-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name FI_BOT-V2 || node .",
-      "start": "pm2 start . --attach --name FI_BOT-V2",
-      "stop": "pm2 stop FI_BOT-V2",
+      "run": "pm2 start . --deep-monitoring --attach --name FI-BOT-UGANDA- || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name FI-BOT-UGANDA- || node .",
+      "start": "pm2 start . --attach --name FI-BOT-UGANDA-",
+      "stop": "pm2 stop FI-BOT-UGANDA-",
       "heroku-postbuild": "git clone https://github.com/Noolayko/FI-BOT-UGANDA- temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/Noolayko/FI-BOT-UGANDA-.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
