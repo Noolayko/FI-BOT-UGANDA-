@@ -7,7 +7,7 @@ global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "donhacker@gamil.com";
-global.location = "Abuja, Nigeria";
+global.location = "Iganga, Uganda ";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
@@ -48,10 +48,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`FI_BOT-V2™`",
-  author: process.env.PACK_AUTHER || "FI_BOT-V2",
-  packname: process.env.PACK_NAME || "A N I T A",
-  botname: process.env.BOT_NAME || "👑FI_BOT-V2👑",
+  caption: process.env.CAPTION || "`FI-BOT-UGANDA-™`",
+  author: process.env.PACK_AUTHER || "FI-BOT-UGANDA-",
+  packname: process.env.PACK_NAME || "F I B O T",
+  botname: process.env.BOT_NAME || "👑 FI-BOT-UGANDA-👑",
   ownername: process.env.OWNER_NAME || "👑DON HACKER 👑",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
