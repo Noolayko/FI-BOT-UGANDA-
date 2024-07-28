@@ -1,13 +1,13 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/Noolayko/FI-BOT-UGANDA- /root/silva
+RUN git clone https://github.com/Noolayko/FI-BOT-UGANDA- /root/Noolayko
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/silva/node_modules
+RUN rm -rf /root/Noolayko/node_modules
 
 # Install dependencies
-WORKDIR /root/silva
+WORKDIR /root/Noolayko
 RUN npm install
 
 # Add additional Steps To Run...
