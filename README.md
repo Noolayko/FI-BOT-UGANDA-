@@ -24,6 +24,33 @@ FI-BOT-UGANDA-
 <a htef="https://don-bots-session.onrender.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
+QUEEN_ANITA-V2 Deployment Methods
+
+### 1. FORK THIS REPO
+
+<a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+### 2. GET SESSION ID HERE
+
+### SERVER 1
+ 
+<a href="https://don-bots-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://don-bots-session.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+
+### SERVER 2 
+### GET SESSION ID HERE
+
+<a href="https://don-bots-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://don-bots-session.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
 
-![_37c32468-e197-46db-a648-0aef5653e43b](https://github.com/user-attachments/assets/04ec512f-aabf-4f9e-883c-3b435aa2237d)
+### DEPLOY ON RENDER
+
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+
+
