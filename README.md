@@ -21,6 +21,9 @@ FI-BOT-UGANDA-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center
    
-<a 
+<a href="https://don-bots-session.onrender.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+
 
 ![_37c32468-e197-46db-a648-0aef5653e43b](https://github.com/user-attachments/assets/04ec512f-aabf-4f9e-883c-3b435aa2237d)
