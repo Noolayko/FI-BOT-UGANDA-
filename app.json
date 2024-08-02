@@ -1,7 +1,7 @@
 {
     "name": "FI-BOT-UGANDA-",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "logo": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg",
     "keywords": ["Noolayko", "FI-BOT-UGANDA-", "FI-BOT-UGANDA-"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
@@ -99,7 +99,7 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "/"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
@@ -111,7 +111,7 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "privat"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
