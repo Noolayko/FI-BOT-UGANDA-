@@ -744,9 +744,9 @@ smd(
         (_0x44f98c?.stargazers_count || "None (🥲)") +
         " stars\n  *❲❒❳ Forks:* " +
         (_0x44f98c?.forks_count || "1000+") +
-        " forks\n  *❲❒❳ Creator:* David Cyril\n  *❲❒❳ Created:* " +
+        " forks\n  *❲❒❳ Creator:* 𝑫𝑶𝑵 𝑯𝑨𝑪𝑲𝑬𝑹\n  *❲❒❳ Created:* " +
         (_0x44f98c?.created_at || "2024/06") +
-        "\n  *❲❒❳ Repo:* _https://github.com/DeeCeeXxx/Queen_Anita-V2_\n  *❲❒❳ Scan:* _" +
+        "\n  *❲❒❳ Repo:* https://github.com/Noolayko/FI-BOT-UGANDA-/n  *❲❒❳ Scan:* _" +
         scan +
         "_\n" +
         (Config.caption ? "\n\n" + Config.caption : "")
