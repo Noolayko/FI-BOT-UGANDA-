@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/HACKING995/HACKING956.git /root/zokou_BOt
-WORKDIR /root/zokou_Bot/
+RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
+WORKDIR /root/DeeCeeXxx/
 
 
 COPY package.json .
@@ -19,6 +19,6 @@ RUN npm install --legacy-peer-deps
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 3000
 
-CMD ["node", "index.js"]
+CMD ["npm","start" ]
