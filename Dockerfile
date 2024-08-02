@@ -1,15 +1,24 @@
-FROM quay.io/sampandey001/secktor
+FROM node:lts-buster
 
-RUN git clone https://github.com/Noolayko/FI-BOT-UGANDA- /root/Noolayko
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  npm i pm2 -g && \
+  rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/HACKING995/HACKING956.git /root/zokou_BOt
+WORKDIR /root/zokou_Bot/
 
-# Clear npm cache and remove node_modules directories
-RUN npm cache clean --force
-RUN rm -rf /root/Noolayko/node_modules
 
-# Install dependencies
-WORKDIR /root/Noolayko
-RUN npm install
+COPY package.json .
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
 
-# Add additional Steps To Run...
-EXPOSE 3000
-CMD ["npm","start" ]
+COPY . .
+
+EXPOSE 5000
+
+CMD ["node", "index.js"]
