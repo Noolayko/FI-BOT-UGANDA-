@@ -30,11 +30,11 @@ smd(
 ➮ʀᴜɴᴛɪᴍᴇ - ${runtime(process.uptime())} 
 ➮ᴅᴀᴛᴇ - ${message.date} 
 ➮ɴᴏᴡ ᴛɪᴍᴇ - ${message.time} 
-➮Fᴏᴜɴᴅᴇʀ- *David Cyril*
+➮Fᴏᴜɴᴅᴇʀ- *@𝑫𝑶𝑵 𝑯𝑨𝑪𝑲𝑬𝑹*
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *QUEEN_ANITA-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *FI-BIT-UG- SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
