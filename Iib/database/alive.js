@@ -14,7 +14,7 @@ let options = {
       type: String,
       unique: true,
       required: true,
-      default: "QUEEN_ANITA-V2"
+      default: "FI-BOT"
     },
     alive_text: {
       type: String,
