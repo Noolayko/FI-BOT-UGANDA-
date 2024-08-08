@@ -5,8 +5,8 @@ FI-BOT-UGANDA-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ FI_+BOT-+UGANDA★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DON+HACKER;RELEASED+DATE+30%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/abcd337f2ec7213b21f56.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{Noolayko}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<img src="https://telegra.ph/file/ca3524b5910d72a0844b7.jpg"/> 
+<p align="center"><img src="https://profile-counter.glitch.me/{Noolayko}/count.svg" alt="Noolayko :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Noolayko/followers"><img title="Followers" src="https://img.shields.io/github/followers/Noolayko?color=red&style=flat-square"></a>
 <a href="https://github.com/Noolayko/FI-BOT-UGANDA-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Noolayko/FI-BOT-UGANDA-?color=blue&style=flat-square"></a>
