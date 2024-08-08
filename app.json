@@ -1,7 +1,7 @@
 {
     "name": "FI-BOT-UGANDA-",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg",
+    "logo": "https://telegra.ph/file/ca3524b5910d72a0844b7.jpg",
     "keywords": ["Noolayko", "FI-BOT-UGANDA-", "FI-BOT-UGANDA-"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg",
+        "value": "https://telegra.ph/file/ca3524b5910d72a0844b7.jpg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/fd2dd4ff0da3dca59f992.jpg"
+        "value": "https://telegra.ph/file/ca3524b5910d72a0844b7.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
