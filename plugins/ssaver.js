@@ -81,7 +81,7 @@ smd({ on: "text" }, async (message, text, { icmd }) => {
     )
       message.bot.sendPresenceUpdate(waPresence, message.from);
     if (message.isAstro && !message.fromMe && !message.text.startsWith("$"))
-      message.react("🙇");
+      message.react("👄");
   } catch (e) {
     console.log(e);
   }
@@ -122,7 +122,7 @@ smd(
   },
   async (message, text) => {
     try {
-      message.send(`An Estimated 60+ Users On Queen_Anita-V2`.trim());
+      message.send(`An Estimated 60+ Users On 𝐅𝚰-𝚩𝚯𝚻-𝐔𝐆`.trim());
     } catch (e) {
       console.error("Error:", e);
       message.reply(`*ERROR!* `);
