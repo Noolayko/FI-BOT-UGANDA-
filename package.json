@@ -7,8 +7,8 @@
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name 𝐅𝚰-𝚩𝚯𝚻-𝐔𝐆 || node .",
       "asta": "pm2 start . --deep-monitoring --attach --name 𝐅𝚰-𝚩𝚯𝚻-𝐔𝐆 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
-      "stop": "pm2 stop Queen_Anita-V2",
+      "start": "pm2 start . --attach --name 𝐅𝚰-𝚩𝚯𝚻-𝐔𝐆",
+      "stop": "pm2 stop 𝐅𝚰-𝚩𝚯𝚻-𝐔𝐆",
       "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
