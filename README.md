@@ -22,6 +22,12 @@ FI-BOT-UGANDA-
 <p align="center
 
 
+<div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
+
+
+
 
 ## FI BOT Deployment Methods
 
