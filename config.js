@@ -51,7 +51,7 @@ module.exports = {
   caption: process.env.CAPTION || "`FI-BOT-UGANDA-™`",
   author: process.env.PACK_AUTHER || "FI-BOT-UGANDA-",
   packname: process.env.PACK_NAME || "F I B O T",
-  botname: process.env.BOT_NAME || "🤖FI-BOT-UGANDA-🤖",
+  botname: process.env.BOT_NAME || "FI-BOT-UGANDA",
   ownername: process.env.OWNER_NAME || "𝑫𝑶𝑵 𝑯𝑨𝑪𝑲𝑬𝑹💥",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
@@ -63,7 +63,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "Privat",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
   LANG: (process.env.THEME || "F I").toUpperCase(),
 };
 global.rank = "updated";
