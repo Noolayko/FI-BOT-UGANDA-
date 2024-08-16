@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
-WORKDIR /root/DeeCeeXxx/
+RUN git clone https://https://github.com/Noolayko/FI-BOT-UGANDA-  /root/Noolayko 
+WORKDIR /root/Noolayko/
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
