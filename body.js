@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+FI BOT UG
 
-Made by dev Ibrahim Adams
+Made by dev DON TECH 
 
 
                  _.u[[/;:,.         .odMMMMMM'
@@ -24,6 +24,7 @@ YMMMUP^
  Unclone version 😂🤣
 
  **/
+ thanks from kaboi 
 
 
 
